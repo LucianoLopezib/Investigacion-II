@@ -1,0 +1,4 @@
+Type	Sample Name	S/W Version	Serial Number	Measurement Date and Time	Conductivity (mS/cm)	Mobility (µmcm/Vs)	Zeta Potential (mV)	Zeta Deviation (mV)
+Zeta	LL02_pH4-2 1	7.11	MAL1134088	miércoles, 12 de noviembre de 2025 07:12:50 p.m.	1,31	-0,6426	-8,20	4,30
+Zeta	LL02_pH4-2 2	7.11	MAL1134088	miércoles, 12 de noviembre de 2025 07:13:55 p.m.	1,39	-0,6481	-8,27	13,8
+Zeta	LL02_pH4-2 3	7.11	MAL1134088	miércoles, 12 de noviembre de 2025 07:14:34 p.m.	1,43	-0,6978	-8,90	16,5
